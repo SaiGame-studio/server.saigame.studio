@@ -85,6 +85,7 @@ export const TIPS_SECTION: StaticSection = {
     articles: [
         { number: 1, slug: "game-expect-user", titleKey: "tutorials.tips.gameExpectUser" },
         { number: 2, slug: "keep-sdk-unmodified", titleKey: "tutorials.tips.keepSdkUnmodified", supportChat: true },
+        { number: 3, slug: "banner-ad-impressions", titleKey: "tutorials.tips.bannerAdImpressions" },
     ],
 };
 
