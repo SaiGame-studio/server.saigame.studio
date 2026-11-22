@@ -4364,7 +4364,8 @@
     },
     "tips": {
       "gameExpectUser": "Open Sai Play from your game",
-      "keepSdkUnmodified": "Do not edit the Sai Server Unity SDK"
+      "keepSdkUnmodified": "Do not edit the Sai Server Unity SDK",
+      "bannerAdImpressions": "How banner ads earn: impressions, not time"
     }
   },
   "llmConversation": {
